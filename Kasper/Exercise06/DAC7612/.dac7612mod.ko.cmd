@@ -1,0 +1,1 @@
+cmd_/home/stud/I3HAL/Kasper/Exercise06/DAC7612/dac7612mod.ko := arm-angstrom-linux-gnueabi-ld -EL -r  -T /home/stud/sources/linux-3.2.6/scripts/module-common.lds --build-id  -o /home/stud/I3HAL/Kasper/Exercise06/DAC7612/dac7612mod.ko /home/stud/I3HAL/Kasper/Exercise06/DAC7612/dac7612mod.o /home/stud/I3HAL/Kasper/Exercise06/DAC7612/dac7612mod.mod.o

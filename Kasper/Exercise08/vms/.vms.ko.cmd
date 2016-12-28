@@ -1,0 +1,1 @@
+cmd_/home/stud/I3HAL/Kasper/Exercise08/vms/vms.ko := arm-angstrom-linux-gnueabi-ld -EL -r  -T /home/stud/sources/linux-3.2.6/scripts/module-common.lds --build-id  -o /home/stud/I3HAL/Kasper/Exercise08/vms/vms.ko /home/stud/I3HAL/Kasper/Exercise08/vms/vms.o /home/stud/I3HAL/Kasper/Exercise08/vms/vms.mod.o

@@ -1,0 +1,6 @@
+for(i = 0; i < 4; ++i)
+	gpio_set_value(0,1);
+	for(i=0;i<4;++i)
+		if(!gpio_get_value(4))
+			make input request thingy
+	gpio_set_value(0,0);

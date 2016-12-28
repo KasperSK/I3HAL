@@ -1,0 +1,1 @@
+cmd_/home/stud/I3HAL/Exercise03/step02/hello_world.ko := arm-angstrom-linux-gnueabi-ld -EL -r  -T /home/stud/sources/linux-3.2.6/scripts/module-common.lds --build-id  -o /home/stud/I3HAL/Exercise03/step02/hello_world.ko /home/stud/I3HAL/Exercise03/step02/hello_world.o /home/stud/I3HAL/Exercise03/step02/hello_world.mod.o

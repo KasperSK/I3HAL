@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "filename:"
+read path1
+
+scp "$path1" root@10.9.8.2:/home/root	

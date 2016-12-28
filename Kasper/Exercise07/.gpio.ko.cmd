@@ -1,0 +1,1 @@
+cmd_/home/stud/I3HAL/Kasper/Exercise07/gpio.ko := arm-angstrom-linux-gnueabi-ld -EL -r  -T /home/stud/sources/linux-3.2.6/scripts/module-common.lds --build-id  -o /home/stud/I3HAL/Kasper/Exercise07/gpio.ko /home/stud/I3HAL/Kasper/Exercise07/gpio.o /home/stud/I3HAL/Kasper/Exercise07/gpio.mod.o

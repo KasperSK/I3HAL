@@ -1,0 +1,1 @@
+cmd_/home/stud/I3HAL/Kasper/Exercise06/psoc4SPIDriver/psoc4mod.o := arm-angstrom-linux-gnueabi-ld -EL    -r -o /home/stud/I3HAL/Kasper/Exercise06/psoc4SPIDriver/psoc4mod.o /home/stud/I3HAL/Kasper/Exercise06/psoc4SPIDriver/psoc4.o /home/stud/I3HAL/Kasper/Exercise06/psoc4SPIDriver/psoc4-spi.o 
